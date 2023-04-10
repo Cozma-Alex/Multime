@@ -4,4 +4,4 @@ Aplicație care prezintă interfața unui tip abstract de date(Mulțime) cu ajut
 
 
 
-# Aplicatie in lucru
+*Aplicatie in lucru*
